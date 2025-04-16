@@ -20,7 +20,7 @@ I am a dedicated and highly motivated B.Tech Information Technology student spec
 ### 📚 Education
 
 - *U.V. Patel Engineering College*
-  - *Program:* B.Tech - Information technology
+  - *Program:* B.Tech - Computer engineer
   - *Year:* In 3rd Year
 
 <!--
