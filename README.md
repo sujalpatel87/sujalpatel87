@@ -18,7 +18,7 @@
 
 ## 🎓 About Me (Internship Focused)
 
-- 🎓 **B.Tech – Information Technology (3rd Year)**
+- 🎓 **B.Tech – compuer Enginrreing (4rd Year)**
 - 🔍 Actively looking for **Internship opportunities**
 - 🤖 Interested in **AI, Web Development & Game Development**
 - 🧠 Strong foundation in **Programming & Problem Solving**
