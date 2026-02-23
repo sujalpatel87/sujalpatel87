@@ -27,7 +27,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE">
+  <a href="[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/your-resume-id/view?usp=sharing)">
     <img src="https://img.shields.io/badge/Download%20Resume-00E5FF?style=for-the-badge&logo=google-drive&logoColor=black"/>
   </a>
 </p>
@@ -50,7 +50,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,nodejs,mysql,mongodb,git,github,linux,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,nodejs,mysql,mongodb,git,github,linux,unity&theme=dark&perline=7" />
 </p>
 
 ---
@@ -66,10 +66,10 @@
 
 ## 📌 Featured Projects
 
-🚀 Hotel & Restaurant Management System  
-🎮 Unity 2D Racing Game  
-🐍 Python Automation Tools  
-🌐 Responsive Web Applications  
+🔹 [**Hotel & Restaurant Management System**](https://github.com/sujalpatel87/hotel-management-system)  
+🔹 [**Unity 2D Racing Game**](https://github.com/sujalpatel87/unity-racing-game)  
+🔹 [**Python Automation Tools**](https://github.com/sujalpatel87/python-automation)  
+🔹 [**Responsive Web Applications**](https://github.com/sujalpatel87/responsive-web-apps)  
 
 👉 Explore my repositories to see detailed implementations.
 
