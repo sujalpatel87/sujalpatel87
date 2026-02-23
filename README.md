@@ -1,11 +1,9 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HERO ===================== -->
 
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00E5FF;">Sujal Patel</span>
-</h1>
+<h1 align="center">Hey 👋, I'm <span style="color:#00E5FF;">Sujal Patel</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=24&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Internship+Seeker;AI+%7C+Web+%7C+Game+Developer;Building+Projects+That+Matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=24&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Engineering+Student;Aspiring+Software+Developer;AI+%7C+Web+%7C+Game+Development;Building+Projects+That+Solve+Real+Problems" />
 </p>
 
 <p align="center">
@@ -16,25 +14,23 @@
 
 ---
 
-## 🎓 About Me (Internship Focused)
+## 🎓 About Me
 
-- 🎓 **B.Tech – compuer Enginrreing (4rd Year)**
-- 🔍 Actively looking for **Internship opportunities**
-- 🤖 Interested in **AI, Web Development & Game Development**
-- 🧠 Strong foundation in **Programming & Problem Solving**
-- 🚀 Love building **real-world & academic projects**
+🎓 Final Year B.Tech Computer Engineering Student  
+🔎 Actively seeking Software / AI / Web Development Internship  
+💡 Passionate about building practical, real-world applications  
+🧠 Strong foundation in programming and problem solving  
+🚀 Always learning, always building  
 
 ---
 
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view?usp=sharing" target="_blank">
+  <a href="YOUR_RESUME_LINK_HERE">
     <img src="https://img.shields.io/badge/Download%20Resume-00E5FF?style=for-the-badge&logo=google-drive&logoColor=black"/>
   </a>
 </p>
-
-> ⚠️ **Replace `YOUR_RESUME_LINK` with your Google Drive resume link**
 
 ---
 
@@ -51,7 +47,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Animated Neon Icons)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react,nodejs,mysql,mongodb,git,github,linux,unity&theme=dark" />
@@ -59,29 +55,27 @@
 
 ---
 
-## 💡 Domains of Interest
+## 💡 Areas of Interest
 
-| 🤖 AI | 🌐 Web | 🎮 Game Dev |
-|-----|------|----------|
-| Python | HTML / CSS | Unity 2D |
-| Machine Learning (Basics) | JavaScript | C# (Basics) |
-| Data Handling | React | Game Mechanics |
-| Automation | Full Stack (Learning) | Physics & UI |
+🔹 Artificial Intelligence & Machine Learning  
+🔹 Full Stack Web Development  
+🔹 Game Development with Unity  
+🔹 Automation & Problem Solving  
 
 ---
 
 ## 📌 Featured Projects
 
-🚀 **Hotel & Restaurant Management System**  
-🎮 **Unity 2D Racing Game (College Project)**  
-🐍 **Python Automation & Mini Projects**  
-🌐 **Responsive Web Design Projects**
+🚀 Hotel & Restaurant Management System  
+🎮 Unity 2D Racing Game  
+🐍 Python Automation Tools  
+🌐 Responsive Web Applications  
 
-👉 *Check my repositories for full project details.*
+👉 Explore my repositories to see detailed implementations.
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujalpatel87&show_icons=true&theme=radical" />
@@ -97,20 +91,10 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujalpatel87&theme=radical&no-frame=true" />
-</p>
-
----
-
 ## 📫 Contact
 
-📧 **Email:** papatel4045@gmail.com  
+📧 papatel4045@gmail.com  
 
 ---
 
-<h3 align="center" style="color:#00E5FF;">
-⭐ Thank you for visiting my profile — let's build something impactful!
-</h3>
+<h3 align="center">⭐ Thanks for visiting — let's build something meaningful together!</h3>
